@@ -1,0 +1,6 @@
+Food|F001|Chicken Adobo Meal|85.0|30
+Food|F002|Pancit Canton|60.0|25
+Drink|D001|Iced Coffee|55.0|40
+Drink|D002|Bottled Water|20.0|100
+Snack|S001|Potato Chips|35.0|50
+Snack|S002|Chocolate Bar|25.0|60
